@@ -1,0 +1,5 @@
+[project]
+name = "log-insights-python"
+version = "0.1.0"
+requires-python = ">=3.11"
+description = "Analisador de logs JSON Lines com taxa de erros HTTP 5xx, percentil p95 e agregação por caminho."
